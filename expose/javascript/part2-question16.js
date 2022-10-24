@@ -1,4 +1,3 @@
-
 for(var property in statistics) {
     var first = property.substring(0, 1);
     var num = statistics[property] % 2;
@@ -7,4 +6,3 @@ for(var property in statistics) {
         console.log(statistics[property]);
     }
 }
-
