@@ -61,3 +61,13 @@ f. true, the type are compared and they are both boolean so we then compare the 
 
 **question 15:**
 == compares the content and does type conversion while === compares the variable type as well as the content.
+
+**question 17:**
+[2, 4, 6]
+we pass the array [1, 2, 3] and the function name doSomething. the modifyArray function will go through every element in the array passed and do calculations on it based on the function so for every item in the array we will multiply that number times 2.
+
+**question 19:**
+1\
+4\
+3\
+2\
